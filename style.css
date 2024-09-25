@@ -234,10 +234,6 @@ header *{
     padding-bottom: 10px;
 }
 
-.select-part :nth-child(1)::after{
-
-}
-
 .step1-content p{
     color: gray;
     margin-bottom: 30px;
